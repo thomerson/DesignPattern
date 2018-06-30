@@ -3,3 +3,11 @@
 ################################################################################
 
 /Thomerson.DesignPattern/.vs/Thomerson.DesignPattern/v15
+/Thomerson.DesignPattern/Thomerson.DesignPattern/obj
+/Thomerson.DesignPattern/Thomerson.DesignPattern/bin/Debug/netcoreapp2.0
+/Thomerson.DesignPattern/单例模式/bin/Debug/netcoreapp2.0
+/Thomerson.DesignPattern/单例模式/obj
+/Thomerson.DesignPattern/工厂方法模式/bin/Debug/netcoreapp2.0
+/Thomerson.DesignPattern/工厂方法模式/obj
+/Thomerson.DesignPattern/简单工厂模式/obj
+/Thomerson.DesignPattern/简单工厂模式/bin/Debug/netcoreapp2.0
