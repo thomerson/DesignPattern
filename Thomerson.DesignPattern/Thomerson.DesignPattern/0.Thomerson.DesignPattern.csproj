@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\装饰者模式\9.装饰者模式.csproj" />
+  </ItemGroup>
+
 </Project>
