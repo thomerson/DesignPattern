@@ -3,13 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.Thomerson.DesignPattern", "Thomerson.DesignPattern\0.Thomerson.DesignPattern.csproj", "{DE37F0CD-851B-4CEB-80F2-66755039459A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0.Thomerson.DesignPattern", "Thomerson.DesignPattern\0.Thomerson.DesignPattern.csproj", "{DE37F0CD-851B-4CEB-80F2-66755039459A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.单例模式", "单例模式\1.单例模式.csproj", "{45EDFDB6-7BE8-4DB4-B0E9-93BE89BC3B25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.单例模式", "单例模式\1.单例模式.csproj", "{45EDFDB6-7BE8-4DB4-B0E9-93BE89BC3B25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.简单工厂模式", "简单工厂模式\2.简单工厂模式.csproj", "{D8378535-0AD4-4F26-8A8D-3CFD1F59BD1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.简单工厂模式", "简单工厂模式\2.简单工厂模式.csproj", "{D8378535-0AD4-4F26-8A8D-3CFD1F59BD1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.工厂方法模式", "工厂方法模式\3.工厂方法模式.csproj", "{06123320-D1A6-41EE-902D-EEA07834948A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.工厂方法模式", "工厂方法模式\3.工厂方法模式.csproj", "{06123320-D1A6-41EE-902D-EEA07834948A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.抽象工厂模式", "抽象工厂模式\4.抽象工厂模式.csproj", "{12BD109A-F389-415B-981A-7783B26031CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.建造者模式", "建造者模式\5.建造者模式.csproj", "{3956A715-03B2-4C95-B55D-2B3466F1019C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.原型模式", "原型模式\6.原型模式.csproj", "{6F10900D-EBC5-459A-8228-12274B11EED4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.适配器模式", "适配器模式\7.适配器模式.csproj", "{91216EE1-87ED-42F0-A30C-36DAC1B02A61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.桥接模式", "桥接模式\8.桥接模式.csproj", "{E82642F1-23AE-44C0-8259-3DA017ADAE98}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +43,26 @@ Global
 		{06123320-D1A6-41EE-902D-EEA07834948A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06123320-D1A6-41EE-902D-EEA07834948A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06123320-D1A6-41EE-902D-EEA07834948A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12BD109A-F389-415B-981A-7783B26031CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12BD109A-F389-415B-981A-7783B26031CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12BD109A-F389-415B-981A-7783B26031CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12BD109A-F389-415B-981A-7783B26031CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3956A715-03B2-4C95-B55D-2B3466F1019C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3956A715-03B2-4C95-B55D-2B3466F1019C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3956A715-03B2-4C95-B55D-2B3466F1019C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3956A715-03B2-4C95-B55D-2B3466F1019C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F10900D-EBC5-459A-8228-12274B11EED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F10900D-EBC5-459A-8228-12274B11EED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F10900D-EBC5-459A-8228-12274B11EED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F10900D-EBC5-459A-8228-12274B11EED4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91216EE1-87ED-42F0-A30C-36DAC1B02A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91216EE1-87ED-42F0-A30C-36DAC1B02A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91216EE1-87ED-42F0-A30C-36DAC1B02A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91216EE1-87ED-42F0-A30C-36DAC1B02A61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E82642F1-23AE-44C0-8259-3DA017ADAE98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E82642F1-23AE-44C0-8259-3DA017ADAE98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E82642F1-23AE-44C0-8259-3DA017ADAE98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E82642F1-23AE-44C0-8259-3DA017ADAE98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
