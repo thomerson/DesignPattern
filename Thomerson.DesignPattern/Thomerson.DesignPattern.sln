@@ -11,23 +11,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.简单工厂模式", "简
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.工厂方法模式", "工厂方法模式\3.工厂方法模式.csproj", "{06123320-D1A6-41EE-902D-EEA07834948A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.抽象工厂模式", "抽象工厂模式\4.抽象工厂模式.csproj", "{12BD109A-F389-415B-981A-7783B26031CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.抽象工厂模式", "抽象工厂模式\4.抽象工厂模式.csproj", "{12BD109A-F389-415B-981A-7783B26031CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.建造者模式", "建造者模式\5.建造者模式.csproj", "{3956A715-03B2-4C95-B55D-2B3466F1019C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.建造者模式", "建造者模式\5.建造者模式.csproj", "{3956A715-03B2-4C95-B55D-2B3466F1019C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.原型模式", "原型模式\6.原型模式.csproj", "{6F10900D-EBC5-459A-8228-12274B11EED4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6.原型模式", "原型模式\6.原型模式.csproj", "{6F10900D-EBC5-459A-8228-12274B11EED4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.适配器模式", "适配器模式\7.适配器模式.csproj", "{91216EE1-87ED-42F0-A30C-36DAC1B02A61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.适配器模式", "适配器模式\7.适配器模式.csproj", "{91216EE1-87ED-42F0-A30C-36DAC1B02A61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.桥接模式", "桥接模式\8.桥接模式.csproj", "{E82642F1-23AE-44C0-8259-3DA017ADAE98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.桥接模式", "桥接模式\8.桥接模式.csproj", "{E82642F1-23AE-44C0-8259-3DA017ADAE98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.装饰者模式", "装饰者模式\9.装饰者模式.csproj", "{6479CF5B-2F98-4945-A1CC-792EBB9C147E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9.装饰者模式", "装饰者模式\9.装饰者模式.csproj", "{6479CF5B-2F98-4945-A1CC-792EBB9C147E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.组合模式", "组合模式\10.组合模式.csproj", "{27971FE1-3332-4DFE-99D8-6A10AE460BCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.组合模式", "组合模式\10.组合模式.csproj", "{27971FE1-3332-4DFE-99D8-6A10AE460BCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.外观模式", "外观模式\11.外观模式.csproj", "{1A477F4C-788E-4355-BD09-4BEC2AF5D499}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.外观模式", "外观模式\11.外观模式.csproj", "{1A477F4C-788E-4355-BD09-4BEC2AF5D499}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.享元模式", "享元模式\12.享元模式.csproj", "{0D8DBE3D-1CF5-42CB-9FB7-7441973BAC50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.享元模式", "享元模式\12.享元模式.csproj", "{0D8DBE3D-1CF5-42CB-9FB7-7441973BAC50}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13.代理模式", "代理模式\13.代理模式.csproj", "{53DB65C4-D614-4F43-B2F4-996F822D812B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14.责任链模式", "责任链模式\14.责任链模式.csproj", "{0F259601-FEA8-4624-B365-4693B2D5D368}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "命令模式", "命令模式\命令模式.csproj", "{23C184ED-5C67-4F5E-9C09-490D11486F49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +93,18 @@ Global
 		{0D8DBE3D-1CF5-42CB-9FB7-7441973BAC50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D8DBE3D-1CF5-42CB-9FB7-7441973BAC50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D8DBE3D-1CF5-42CB-9FB7-7441973BAC50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53DB65C4-D614-4F43-B2F4-996F822D812B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53DB65C4-D614-4F43-B2F4-996F822D812B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53DB65C4-D614-4F43-B2F4-996F822D812B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53DB65C4-D614-4F43-B2F4-996F822D812B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F259601-FEA8-4624-B365-4693B2D5D368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F259601-FEA8-4624-B365-4693B2D5D368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F259601-FEA8-4624-B365-4693B2D5D368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F259601-FEA8-4624-B365-4693B2D5D368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23C184ED-5C67-4F5E-9C09-490D11486F49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23C184ED-5C67-4F5E-9C09-490D11486F49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23C184ED-5C67-4F5E-9C09-490D11486F49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23C184ED-5C67-4F5E-9C09-490D11486F49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
