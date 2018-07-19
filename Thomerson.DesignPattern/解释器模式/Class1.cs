@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace 命令模式
+namespace 解释器模式
 {
     public class Class1
     {

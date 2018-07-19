@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0.Thomerson.DesignPattern", "Thomerson.DesignPattern\0.Thomerson.DesignPattern.csproj", "{DE37F0CD-851B-4CEB-80F2-66755039459A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0.设计模式", "Thomerson.DesignPattern\0.设计模式.csproj", "{DE37F0CD-851B-4CEB-80F2-66755039459A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.单例模式", "单例模式\1.单例模式.csproj", "{45EDFDB6-7BE8-4DB4-B0E9-93BE89BC3B25}"
 EndProject
@@ -33,7 +33,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13.代理模式", "代理�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14.责任链模式", "责任链模式\14.责任链模式.csproj", "{0F259601-FEA8-4624-B365-4693B2D5D368}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "命令模式", "命令模式\命令模式.csproj", "{23C184ED-5C67-4F5E-9C09-490D11486F49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15.命令模式", "命令模式\15.命令模式.csproj", "{23C184ED-5C67-4F5E-9C09-490D11486F49}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "解释器模式", "解释器模式\解释器模式.csproj", "{D5C9B2C1-6A1E-4342-B1A8-02FB38347D98}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "迭代器模式", "迭代器模式\迭代器模式.csproj", "{773A23FF-23C8-4D13-BB2E-DCEE8BA38FAD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17.观察者模式", "观察者模式\17.观察者模式.csproj", "{57036BC4-4B89-4563-A47D-0941B91AA194}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +111,18 @@ Global
 		{23C184ED-5C67-4F5E-9C09-490D11486F49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23C184ED-5C67-4F5E-9C09-490D11486F49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23C184ED-5C67-4F5E-9C09-490D11486F49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5C9B2C1-6A1E-4342-B1A8-02FB38347D98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C9B2C1-6A1E-4342-B1A8-02FB38347D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C9B2C1-6A1E-4342-B1A8-02FB38347D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C9B2C1-6A1E-4342-B1A8-02FB38347D98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{773A23FF-23C8-4D13-BB2E-DCEE8BA38FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{773A23FF-23C8-4D13-BB2E-DCEE8BA38FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{773A23FF-23C8-4D13-BB2E-DCEE8BA38FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{773A23FF-23C8-4D13-BB2E-DCEE8BA38FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57036BC4-4B89-4563-A47D-0941B91AA194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57036BC4-4B89-4563-A47D-0941B91AA194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57036BC4-4B89-4563-A47D-0941B91AA194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57036BC4-4B89-4563-A47D-0941B91AA194}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
