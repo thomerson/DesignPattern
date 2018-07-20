@@ -4,12 +4,12 @@ using System.Text;
 
 namespace 状态者模式
 {
-    class StartState : State
+    class WorkState : State
     {
         public override void Action(Context context)
         {
-            Console.WriteLine("start to work");
-            context.SetState(new WorkState());
+            Console.WriteLine("end");
+            context.SetState(new StopState());
         }
     }
 }

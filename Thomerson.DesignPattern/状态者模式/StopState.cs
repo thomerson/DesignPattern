@@ -6,7 +6,7 @@ namespace 状态者模式
 {
     class StopState : State
     {
-        public override void Action()
+        public override void Action(Context context)
         {
             Console.WriteLine("end");
         }

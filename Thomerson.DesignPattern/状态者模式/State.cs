@@ -6,6 +6,6 @@ namespace 状态者模式
 {
     abstract class State
     {
-        public abstract void Action();
+        public abstract void Action(Context context);
     }
 }

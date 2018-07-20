@@ -45,6 +45,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.中介者模式", "中�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.状态者模式", "状态者模式\19.状态者模式.csproj", "{B1BF9299-5F7A-4DA9-975D-FC7EF0018C66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20.策略者模式", "策略者模式\20.策略者模式.csproj", "{44571475-B8F9-4F1A-BC76-4439E315FE3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21.访问者模式", "访问者模式\21.访问者模式.csproj", "{76D26EE0-0641-4BAA-8624-D4E347308F92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +139,14 @@ Global
 		{B1BF9299-5F7A-4DA9-975D-FC7EF0018C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1BF9299-5F7A-4DA9-975D-FC7EF0018C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1BF9299-5F7A-4DA9-975D-FC7EF0018C66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44571475-B8F9-4F1A-BC76-4439E315FE3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44571475-B8F9-4F1A-BC76-4439E315FE3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44571475-B8F9-4F1A-BC76-4439E315FE3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44571475-B8F9-4F1A-BC76-4439E315FE3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76D26EE0-0641-4BAA-8624-D4E347308F92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D26EE0-0641-4BAA-8624-D4E347308F92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76D26EE0-0641-4BAA-8624-D4E347308F92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76D26EE0-0641-4BAA-8624-D4E347308F92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

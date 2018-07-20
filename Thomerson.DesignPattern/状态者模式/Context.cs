@@ -16,7 +16,7 @@ namespace 状态者模式
 
         public void DoAction()
         {
-            state?.Action();
+            state?.Action(this);
         }
     }
 }
