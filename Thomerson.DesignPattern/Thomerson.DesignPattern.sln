@@ -41,13 +41,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "迭代器模式", "迭代�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17.观察者模式", "观察者模式\17.观察者模式.csproj", "{57036BC4-4B89-4563-A47D-0941B91AA194}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.中介者模式", "中介者模式\18.中介者模式.csproj", "{DD98C6A1-3508-4F31-BDA8-B80F7C2901A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18.中介者模式", "中介者模式\18.中介者模式.csproj", "{DD98C6A1-3508-4F31-BDA8-B80F7C2901A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.状态者模式", "状态者模式\19.状态者模式.csproj", "{B1BF9299-5F7A-4DA9-975D-FC7EF0018C66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19.状态者模式", "状态者模式\19.状态者模式.csproj", "{B1BF9299-5F7A-4DA9-975D-FC7EF0018C66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20.策略者模式", "策略者模式\20.策略者模式.csproj", "{44571475-B8F9-4F1A-BC76-4439E315FE3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20.策略者模式", "策略者模式\20.策略者模式.csproj", "{44571475-B8F9-4F1A-BC76-4439E315FE3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21.访问者模式", "访问者模式\21.访问者模式.csproj", "{76D26EE0-0641-4BAA-8624-D4E347308F92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21.访问者模式", "访问者模式\21.访问者模式.csproj", "{76D26EE0-0641-4BAA-8624-D4E347308F92}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22.备忘录模式", "备忘录模式\22.备忘录模式.csproj", "{74BA3346-A0ED-48F4-AA88-E57BB6C99B87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{76D26EE0-0641-4BAA-8624-D4E347308F92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76D26EE0-0641-4BAA-8624-D4E347308F92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76D26EE0-0641-4BAA-8624-D4E347308F92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74BA3346-A0ED-48F4-AA88-E57BB6C99B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74BA3346-A0ED-48F4-AA88-E57BB6C99B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74BA3346-A0ED-48F4-AA88-E57BB6C99B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74BA3346-A0ED-48F4-AA88-E57BB6C99B87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
