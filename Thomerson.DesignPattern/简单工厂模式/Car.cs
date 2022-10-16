@@ -4,7 +4,7 @@ using System.Text;
 
 namespace 简单工厂模式
 {
-   public class Car : Product
+    public class Car : Product
     {
 
     }

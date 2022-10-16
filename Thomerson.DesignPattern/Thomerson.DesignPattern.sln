@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27004.2005
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0.设计模式", "Thomerson.DesignPattern\0.设计模式.csproj", "{DE37F0CD-851B-4CEB-80F2-66755039459A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.单例模式", "单例模式\1.单例模式.csproj", "{45EDFDB6-7BE8-4DB4-B0E9-93BE89BC3B25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.单例模式", "单例模式\01.单例模式.csproj", "{45EDFDB6-7BE8-4DB4-B0E9-93BE89BC3B25}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.简单工厂模式", "简单工厂模式\2.简单工厂模式.csproj", "{D8378535-0AD4-4F26-8A8D-3CFD1F59BD1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.00.简单工厂模式", "简单工厂模式\02.00.简单工厂模式.csproj", "{D8378535-0AD4-4F26-8A8D-3CFD1F59BD1F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.工厂方法模式", "工厂方法模式\3.工厂方法模式.csproj", "{06123320-D1A6-41EE-902D-EEA07834948A}"
 EndProject
