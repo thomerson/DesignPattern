@@ -8,7 +8,11 @@ namespace 建造者模式
     {
         static void Main(string[] args)
         {
-            Console.ReadLine();
+            Builder wang = new BuilderWang();
+            wang.BuildCpu();
+            wang.BuildMainBoard();
+
+            Computar pc = wang.Computar;
         }
     }
 }
