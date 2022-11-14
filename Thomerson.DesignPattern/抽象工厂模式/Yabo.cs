@@ -4,7 +4,7 @@ using System.Text;
 
 namespace 抽象工厂模式
 {
-    public class Yabo : Product
+    public abstract class Yabo : Product
     {
     }
 }
