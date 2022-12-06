@@ -4,9 +4,9 @@ using System.Text;
 
 namespace 组合模式
 {
-    class Client
+    class Program
     {
-        public void Test()
+        static void Main(string[] args)
         {
             ComplexGraphics complexGraphics = new ComplexGraphics("一个复杂图形和两条线段组成的复杂图形");
             complexGraphics.Add(new Line("线段A"));
