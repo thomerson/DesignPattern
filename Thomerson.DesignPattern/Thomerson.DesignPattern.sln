@@ -51,6 +51,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21.访问者模式", "访�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22.备忘录模式", "备忘录模式\22.备忘录模式.csproj", "{74BA3346-A0ED-48F4-AA88-E57BB6C99B87}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.过滤器模式", "Thomerson.DesignPattern.FilterPattern\08.过滤器模式.csproj", "{87268020-8E80-4ACF-A193-31866C23B750}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{74BA3346-A0ED-48F4-AA88-E57BB6C99B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74BA3346-A0ED-48F4-AA88-E57BB6C99B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74BA3346-A0ED-48F4-AA88-E57BB6C99B87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87268020-8E80-4ACF-A193-31866C23B750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87268020-8E80-4ACF-A193-31866C23B750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87268020-8E80-4ACF-A193-31866C23B750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87268020-8E80-4ACF-A193-31866C23B750}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
