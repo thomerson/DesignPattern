@@ -4,9 +4,9 @@ using System.Text;
 
 namespace 装饰者模式
 {
-    public class Client
+    public class Program
     {
-        public void Test()
+        static void Main(string[] args)
         {
             // 我买了个苹果手机
             Phone phone = new ApplePhone();
