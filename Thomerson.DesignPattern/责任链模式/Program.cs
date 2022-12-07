@@ -8,9 +8,9 @@ namespace 责任链模式
     /// 一个系统的审批需要多个对象才能完成处理的情况下，例如请假系统等。
     /// 代码中存在多个if-else语句的情况下，此时可以考虑使用责任链模式来对代码进行重构。
     /// </summary>
-    class Client
+    class Program
     {
-        void Test()
+        static void Main(string[] args)
         {
             PurchaseRequest requestTelphone = new PurchaseRequest(4000.0, "Telphone");
             PurchaseRequest requestSoftware = new PurchaseRequest(10000.0, "Visual Studio");
