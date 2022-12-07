@@ -4,9 +4,9 @@ using System.Text;
 
 namespace 命令模式
 {
-    class Client
+    class Program
     {
-        void Test()
+        static void Main(string[] args)
         {
             Stock abcStock = new Stock();
 
