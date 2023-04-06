@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace 观察者模式
+﻿namespace 观察者模式
 {
-    class Client
+    class Program
     {
-        void Test()
+        static void Main()
         {
             var subject1 = new Subject() { };
 

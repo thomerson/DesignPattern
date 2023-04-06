@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31624.102
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0.设计模式", "Thomerson.DesignPattern\0.设计模式.csproj", "{DE37F0CD-851B-4CEB-80F2-66755039459A}"
 EndProject
@@ -37,19 +37,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15.命令模式", "命令�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16.解释器模式", "解释器模式\16.解释器模式.csproj", "{D5C9B2C1-6A1E-4342-B1A8-02FB38347D98}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "迭代器模式", "迭代器模式\迭代器模式.csproj", "{773A23FF-23C8-4D13-BB2E-DCEE8BA38FAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17.迭代器模式", "迭代器模式\17.迭代器模式.csproj", "{773A23FF-23C8-4D13-BB2E-DCEE8BA38FAD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17.观察者模式", "观察者模式\17.观察者模式.csproj", "{57036BC4-4B89-4563-A47D-0941B91AA194}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20.观察者模式", "观察者模式\20.观察者模式.csproj", "{57036BC4-4B89-4563-A47D-0941B91AA194}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18.中介者模式", "中介者模式\18.中介者模式.csproj", "{DD98C6A1-3508-4F31-BDA8-B80F7C2901A3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19.状态者模式", "状态者模式\19.状态者模式.csproj", "{B1BF9299-5F7A-4DA9-975D-FC7EF0018C66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21.状态模式", "状态者模式\21.状态模式.csproj", "{B1BF9299-5F7A-4DA9-975D-FC7EF0018C66}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20.策略者模式", "策略者模式\20.策略者模式.csproj", "{44571475-B8F9-4F1A-BC76-4439E315FE3E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21.访问者模式", "访问者模式\21.访问者模式.csproj", "{76D26EE0-0641-4BAA-8624-D4E347308F92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22.访问者模式", "访问者模式\22.访问者模式.csproj", "{76D26EE0-0641-4BAA-8624-D4E347308F92}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22.备忘录模式", "备忘录模式\22.备忘录模式.csproj", "{74BA3346-A0ED-48F4-AA88-E57BB6C99B87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19.备忘录模式", "备忘录模式\19.备忘录模式.csproj", "{74BA3346-A0ED-48F4-AA88-E57BB6C99B87}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.过滤器模式", "Thomerson.DesignPattern.FilterPattern\08.过滤器模式.csproj", "{87268020-8E80-4ACF-A193-31866C23B750}"
 EndProject

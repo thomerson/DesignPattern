@@ -2,7 +2,7 @@
 
 namespace 中介者模式
 {
-    public class Client
+    public class Program
     {
         static void Main()
         {

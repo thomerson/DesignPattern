@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace 状态者模式
+﻿namespace 状态模式
 {
     abstract class State
     {
